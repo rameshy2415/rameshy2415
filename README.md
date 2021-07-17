@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rameshy2415
+- 👋 Hi, I’m @ramesh yadav
 - 👀 I’m interested in new cutting edge technology..
 - 🌱 I’m currently learning Angular 9..
 - 💞️ I’m looking to collaborate on Banking domain project
