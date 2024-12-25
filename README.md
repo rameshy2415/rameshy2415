@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ramesh yadav
-- 👀 I’m interested in new cutting edge technology..
-- 🌱 I’m currently learning Angular 9..
-- 💞️ I’m looking to collaborate on Banking domain project
+- 👀 I’m interested in new cutting-edge technology.
+- 🌱 I am a certified Solution Architect Associate (SAA-C03).
+- 🌱 I’m currently learning public cloud.
+- 💞️ I’m looking to collaborate on a Banking domain project
 - 📫 How to reach me -8270078469
 
 <!---
